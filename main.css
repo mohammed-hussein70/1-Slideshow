@@ -17,13 +17,14 @@
 .prev,
 .next {
   position: absolute;
-  top: 50%;
+  top: 40%;
   font-size: 30px;
   width: auto;
   cursor: pointer;
   color: white;
   padding: 10px;
   margin-top: -10px;
+  background-color: #717171;
   &:hover {
     background-color: black;
   }
